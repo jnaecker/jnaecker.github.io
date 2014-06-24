@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Jeff Naecker
+tagline:          In data we trust.
+url:              http://jnaecker.github.io
 paginate:         1
-baseurl:          /
+baseurl:          http://jnaecker.github.io/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Jeff Naecker
+  url:            https://twitter.com/jnaecker
+  email:          jnaecker@gmail.com
 
 # Custom vars
 version:          1.0.0
