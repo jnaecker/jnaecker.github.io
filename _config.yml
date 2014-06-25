@@ -8,13 +8,19 @@ permalink:        pretty
 # Setup
 title:            Jeff Naecker
 tagline:          In data we trust.
-url:              http://jnaecker.github.io
+url:              http://jnaecker.github.io/
 paginate:         1
-baseurl:          http://jnaecker.github.io/
+baseurl:          /
 author:
   name:           Jeff Naecker
   url:            https://twitter.com/jnaecker
   email:          jnaecker@gmail.com
+
+# Menu
+pages_list:
+  Research: '/research'
+  Teaching: '/teaching'	
+  Blog: '/blog'
 
 # Custom vars
 version:          1.0.0
