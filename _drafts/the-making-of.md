@@ -51,3 +51,9 @@ MathJax.Hub.Config({
 Both of these went in `_includes/head.html `
 
 Favicon from here: http://www.softicons.com/web-icons/alphabet-icons-by-supratim-nayak/j-orange-icon
+
+## Running Locally
+
+Use the command `jekyll build` to build the your site.  This uses all the markdown files and headers/layouts to make an html site that goes into the `_site` folder.  Everything that doesn't start with an underscore will become part of the site.  Anything that is a markdown file will get converted to html for the site.
+
+Running `jekyll serve` will then create a local server for you to test out your site before pushing to Github.

@@ -428,3 +428,8 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/* For footer to be below all other objects. */
+.clear {
+ clear: both;
+}
