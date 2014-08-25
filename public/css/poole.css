@@ -433,3 +433,8 @@ a.pagination-item:hover {
 .clear {
  clear: both;
 }
+
+/* make footer text small */
+.footer {
+  font-size: 80%;
+}
