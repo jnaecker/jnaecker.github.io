@@ -47,8 +47,8 @@ The configuration script is not necessary, but it make the typesetting a little 
 
 #### Domain name hosting
 
-Perhaps the single best feature of Jekyll is that you can host your site for free on [Github pages](https://help.github.com/articles/what-are-github-pages).  So, my site is hosted on Github at [jnaecker.github.io](jnaecker.github.io), simply by virtue of having my site's repository pushed to Github.  I got the domain name [jeffnaecker.com](jeffnaecker.com) from [Namecheap](https://www.namecheap.com/).  Here are directions on [setting up your custom domain with Github pages](http://davidensinger.com/2013/03/setting-the-dns-for-github-pages-on-namecheap/).
+Perhaps the single best feature of Jekyll is that you can host your site for free on [Github pages](https://help.github.com/articles/what-are-github-pages).  So, my site is hosted on Github at [jnaecker.github.io](http://jnaecker.github.io), simply by virtue of having my site's repository pushed to Github.  I got the domain name [jeffnaecker.com](http://jeffnaecker.com) from [Namecheap](https://www.namecheap.com/).  Here are directions on [setting up your custom domain with Github pages](http://davidensinger.com/2013/03/setting-the-dns-for-github-pages-on-namecheap/).
 
 #### Permalinks
 
-You might notice that the url of this page is [jeffnaecker.com/blog/the-making-of](jeffnaecker.com/blog/the-making-of), not [jeffnaecker.com/blog/2014/09/07/the-making-of](jeffnaecker.com/blog/2014/09/07/the-making-of).  To get the simpler URL, I set the `permalink` entry in `_config.yml` to `/blog/:title`.  For more details, see the comments on [Josh's post on this issue](http://joshualande.com/short-urls-jekyll/).
+You might notice that the url of this page is [jeffnaecker.com/blog/the-making-of](http://jeffnaecker.com/blog/the-making-of), not [jeffnaecker.com/blog/2014/09/07/the-making-of](http://jeffnaecker.com/blog/2014/09/07/the-making-of).  To get the simpler URL, I set the `permalink` entry in `_config.yml` to `/blog/:title`.  For more details, see the comments on [Josh's post on this issue](http://joshualande.com/short-urls-jekyll/).
