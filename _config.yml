@@ -21,7 +21,6 @@ pages_list:
   Research: '/research'
   Teaching: '/teaching'	
   Blog: '/blog'
-  Contact: '/contact'
 
 # Custom vars
 version:          1.0.0
