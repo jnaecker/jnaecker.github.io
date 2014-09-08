@@ -15,7 +15,7 @@ $$f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(x)}{n!} x^n.$$
 
 To add MathJax support with, I put the following in `_includes/head.html `:
 
-```js
+```html
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 <script>
 MathJax.Hub.Config({
