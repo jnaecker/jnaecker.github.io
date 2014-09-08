@@ -3,13 +3,14 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        /blog/:title
 
 # Setup
 title:            Jeff Naecker
 tagline:          In data we trust.
-url:              http://jnaecker.github.io/
-paginate:         1
+url:              http://jeffnaecker.com
+paginate:         3
+paginate_path: 	  "blog/page:num"
 baseurl:          /
 author:
   name:           Jeff Naecker
