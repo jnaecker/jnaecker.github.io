@@ -13,7 +13,7 @@ I started by building a very basic site following the [documentation](http://jek
 
 $$f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(x)}{n!} x^n.$$ 
 
-To add MathJax support with, I put the following in `_includes/head.html `:
+To add MathJax support, I put the following in `_includes/head.html `:
 
 ```html
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
