@@ -16,7 +16,7 @@
             <small><a href="{{ page[1] }}">{{ page[0] }}</a></small>
           {% endfor %}
           &nbsp;&nbsp;&nbsp;
-          <small><a href="http://stanford.edu/~jnaecker/files/misc/Naecker_CV.pdf">CV</a></small>
+          <small><a href="http://stanford.edu/~jnaecker/files/misc/Naecker_CV.pdf" onClick="ga('send', 'event', 'CV', 'Download', this.href);" target="_blank">CV</a></small>
         </h3>
       </div>
 
@@ -27,7 +27,7 @@
         <br />
         <p>
           <center>
-          &copy; {{ site.time | date: '%Y' }}. All rights reserved.  Built with <a href="http://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/poole/poole">Poole</a>.  
+          &copy; {{ site.time | date: '%Y' }}. All rights reserved.  Built with <a href="http://jekyllrb.com/" onClick="ga('send', 'event', 'Link', 'Click', this.href);">Jekyll</a> and <a href="https://github.com/poole/poole" onClick="ga('send', 'event', 'Link', 'Click', this.href);">Poole</a>.  
           </center>
           </p>
       </div>

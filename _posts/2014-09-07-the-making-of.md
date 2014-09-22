@@ -3,7 +3,7 @@ layout: post
 title: The Making Of
 ---
 
-When I set out to make this site, I was interested in a minimal structure that used tools I was already familiar with.  I settled on [Jekyll](http://jekyllrb.com/), because I could write pages and posts in [Markdown](http://daringfireball.net/projects/markdown/) and use [Github](https://github.com/) for hosting.
+When I set out to make this site, I was interested in a minimal structure that used tools I was already familiar with.  I settled on [Jekyll](http://jekyllrb.com/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}, because I could write pages and posts in [Markdown](http://daringfireball.net/projects/markdown/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"} and use [Github](https://github.com/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"} for hosting.
 
 I started by building a very basic site following the [documentation](http://jekyllrb.com/docs/home/) on Jekyll.  However, I soon found [this tutorial](http://joshualande.com/jekyll-github-pages-poole/) from Joshua Lande, and found it incredibly helpful.  It walked me through setting up the site with [Poole](https://github.com/poole/poole), a very clean and beautiful fork of Jekyll.  I recommend this tutorial to anyone looking to build a similar site to mine.  Below I've noted a couple small details to supplement Josh's extensive walkthrough.
 
