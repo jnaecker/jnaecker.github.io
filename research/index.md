@@ -5,6 +5,12 @@ title: Research
 
 ## Working Papers
 
+#### [The Lives of Others: Predicting Donations with Non-Choice Data](http://stanford.edu/~jnaecker/files/research/donations.pdf){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"} 
+
+**(Job Market Paper)**
+
+There is much variation in the percent of adults registered to be organ donors across the United States.  Some of this variation may be due to characteristics of the sign-up process, in particular the form that is used when a state resident applies for or renews their driver's license.  However, it is difficult to model and predict the success of the different forms with typical methods, due to the exceptionally large feature space and the limited data.  To surmount this problem, I will apply a methodology that uses non-choice (i.e. unincentivized) data to predict choices.  I will first show that this methodology can predict behavior in an experimental setting where we have good structural benchmarks.  I will then apply this methodology to predict how organ donor designation depends on the elicitation procedure used. I find no evidence that choice framing has an effect on designation choices.   More generally, this methodology can be used to perform policy psuedo-experiments where field experiments would prove prohibitively expensive or repugnant.
+
 #### [Do Hypothetical Choices and Non-Choice Ratings Reveal Preferences?](http://stanford.edu/~jnaecker/files/research/non-choice.pdf){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}
 
 with B. Douglas Bernheim, Daniel Bjorkgren, and Antonio Rangel
