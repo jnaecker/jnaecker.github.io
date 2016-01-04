@@ -15,7 +15,7 @@ with B. Douglas Bernheim, Daniel Bjorkgren, and Antonio Rangel
 
 We develop a method for determining likely responses to a change in some economic condition (e.g., a policy) for settings in which either similar changes have not been observed, or it is challenging to identify observable exogenous causes of past changes. The method involves estimating statistical relationships across decision problems between choice frequencies and variables measuring non-choice reactions, and using those relationships along with additional non-choice data to predict choice frequencies under the envisioned conditions. In an experimental setting, we demonstrate that this method yields accurate measures of behavioral responses, while more standard methods are either inapplicable or highly inaccurate.
 
-#### [Observability Increases the Demand for Commitment Devices](http://bit.ly/commitment-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"} **\[under review\]**
+#### [Observability Increases the Demand for Commitment Devices](http://bit.ly/commitment-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"} **\[revision requested at Management Science\]**
 
 with Christine Exley
 
