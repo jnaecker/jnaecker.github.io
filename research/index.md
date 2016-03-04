@@ -3,6 +3,14 @@ layout: page
 title: Research
 ---
 
+## Published and Accepted Manuscripts
+
+#### [Observability Increases the Demand for Commitment Devices](http://bit.ly/commitment-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"} **\[accepted at Management Science\]**
+
+with Christine Exley
+
+Previous research often interprets the choice to restrict one’s future opportunity set as evidence for sophisticated time-inconsistency. We propose an additional mechanism that may contribute to the demand for commitment technology: the desire to signal to others. We present a field experiment where participants can choose to give up money if they do not follow through with an action. When commitment choices are made public rather than kept private, we find significantly higher uptake rates.
+
 ## Working Papers
 
 #### [The Lives of Others: Predicting Donations with Non-Choice Responses](http://bit.ly/donations-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"} 
@@ -15,11 +23,6 @@ with B. Douglas Bernheim, Daniel Bjorkgren, and Antonio Rangel
 
 We develop a method for determining likely responses to a change in some economic condition (e.g., a policy) for settings in which either similar changes have not been observed, or it is challenging to identify observable exogenous causes of past changes. The method involves estimating statistical relationships across decision problems between choice frequencies and variables measuring non-choice reactions, and using those relationships along with additional non-choice data to predict choice frequencies under the envisioned conditions. In an experimental setting, we demonstrate that this method yields accurate measures of behavioral responses, while more standard methods are either inapplicable or highly inaccurate.
 
-#### [Observability Increases the Demand for Commitment Devices](http://bit.ly/commitment-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"} **\[revision requested at Management Science\]**
-
-with Christine Exley
-
-Previous research has viewed the choice to restrict one's future opportunity set as evidence for sophisticated time-inconsistency. We propose an additional mechanism: commitment devices allow individuals to signal to others. We present a field experiment where participants could choose to give up money if they did not follow through with an action. We find significantly higher demand for commitment if their choice was made public rather than kept private, suggesting that participants believe they can reveal something positive about themselves by using the device.
 
 #### [Machine Learning and Behavioral Economics: Evaluating Models of Choice Under Risk and Ambiguity](http://bit.ly/ML-risk-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}
 
