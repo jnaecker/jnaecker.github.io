@@ -3,15 +3,28 @@ layout: page
 title: Research
 ---
 
-## Published and Accepted Manuscripts
+## Published and Forthcoming Manuscripts
 
-#### [Observability Increases the Demand for Commitment Devices](http://bit.ly/commitment-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"} **\[accepted at Management Science\]**
+#### [Observability Increases the Demand for Commitment Devices](http://bit.ly/commitment-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"} **\[forthcoming at Management Science\]**
 
 with Christine Exley
 
 Previous research often interprets the choice to restrict one’s future opportunity set as evidence for sophisticated time-inconsistency. We propose an additional mechanism that may contribute to the demand for commitment technology: the desire to signal to others. We present a field experiment where participants can choose to give up money if they do not follow through with an action. When commitment choices are made public rather than kept private, we find significantly higher uptake rates.
 
 ## Working Papers
+
+#### [Using Methods from Machine Learning to Evaluate Models of Human Choice](http://bit.ly/ML-risk-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}
+
+with Alex Peysakhovich **[revision submitted at the Journal of Economic Behavior and Organization]**
+
+How can we incorporate tools from machine learning (ML) into understanding human choice under uncertainty? We suggest that ML models can be used as benchmarks for the power of a theory by comparing its out of sample error to that of a black box model optimized for predictive accuracy; we call the latter concept \emph{explainable variance}. We use an online platform to collect a large data set of individuals indicating their willingness to pay to play uncertain lotteries. We find that models that attempt to fit a single risk profile to a large population do very poorly. However, in the domain of risk, a version of expected utility that allows for non-linear probability weighting (as in cumulative prospect theory) and individual-level parameters performs as well out-of-sample as ML techniques. By contrast, in the domain of ambiguity, two of the most widely studied models (a linear version of maximin preferences and second order expected utility) fail to compete with the ML methods. We open the black boxes of the ML methods and examine the actual functions that have been learned. In risk our ML methods essentially rediscover expected utility with probability weighting. In the context of ambiguity we show that the form of ambiguity aversion implied by our ML models indicates a non-linear relationship between ambiguity and the ambiguity penalty. This suggests that there is gain from theoretical work on a portable model of ambiguity aversion. Our results highlight ways in which behavioral scientists can incorporate ML techniques in their daily practice to gain genuinely new insights. 
+
+#### [When Fair Isn't Fair: Sophisticated Time Inconsistency in Social Preferences](http://bit.ly/fairness-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}
+
+with James Andreoni, Deniz Aydin, Blake Barton, and B. Douglas Bernheim **[under review]**
+
+How do people think about fairness in settings with uncertainty? One view holds that fairness requires equality of opportunity; another holds that it requires equality of outcomes. Relative to the resolution of uncertainty, the first view takes an ex ante perspective, while the second takes an ex post perspective. In this paper, we conduct a laboratory experiment designed to determine which perspective people adopt, and under what conditions. We find that most people view fairness from an ex ante perspective when making decisions ex ante, and from an ex post perspective when making decisions ex post. As a result, they exhibit the hallmark of time-inconsistency: after making an initial plan that is fully state-contingent, they revise it upon learning that certain states will not occur. These patterns are robust and persist even when people are aware of their proclivities. Indeed, subjects who switch from ex ante fair to ex post fair choices, and who are aware of this proclivity, generally avoid precommitments and intentionally retain the flexibility to manifest time inconsistency. We argue that these patterns are best explained by a theory of *nominal fairness*.
+
 
 #### [The Lives of Others: Predicting Donations with Non-Choice Responses](http://bit.ly/donations-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"} 
 
@@ -24,19 +37,10 @@ with B. Douglas Bernheim, Daniel Bjorkgren, and Antonio Rangel
 We develop a method for determining likely responses to a change in some economic condition (e.g., a policy) for settings in which either similar changes have not been observed, or it is challenging to identify observable exogenous causes of past changes. The method involves estimating statistical relationships across decision problems between choice frequencies and variables measuring non-choice reactions, and using those relationships along with additional non-choice data to predict choice frequencies under the envisioned conditions. In an experimental setting, we demonstrate that this method yields accurate measures of behavioral responses, while more standard methods are either inapplicable or highly inaccurate.
 
 
-#### [Machine Learning and Behavioral Economics: Evaluating Models of Choice Under Risk and Ambiguity](http://bit.ly/ML-risk-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}
-
-with Alex Peysakhovich **\[revise and resubmit at the Journal of Economic Behavior and Organization]**
-
-There have been centuries of research on human choice under uncertainty. How far have we traveled? How can we incorporate new statistical methods into the search for good models? We use an online platform to collect a large data set of individuals indicating their willingness to pay to play uncertain lotteries and compare the performance of formal models to that of machine learning methods. We show that economic models tend to do worse out-of-sample than would be expected from their in-sample performance, so we argue that “in-sample variance explained” estimates should be taken with caution. In addition, models that attempt to fit a single risk profile to a large population do very poorly. However, a version of expected utility that allows for non-linear probability weighting (as in cumulative prospect theory) and individual-level parameters performs as well out-of-sample as machine learning techniques. The existence of such a simple-to-use and powerful model shows that there is likely little improvement to be made upon the state-of-the-art in the domain of simple risky gambles. On the other hand, we see that in the domain of ambiguity the most widely used models (a linear version of maximin preferences and second order expected utility) fail to compete with the machine learning methods. Combined with the ability of simple models to do well in the case of risk, we argue this suggests that building a portable ambiguity aversion model is a fruitful direction for both theorists and experimentalists alike. Our results highlight ways in which behavioral scientists can incorporate machine learning techniques in their daily practice to gain genuinely new insights. They also underscore the importance of looking out-of-sample when evaluating model quality.
-
 ## Work in Progress
 
 #### What Drives Conspicuous Consumption? 
 with James Andreoni, B. Douglas Bernheim, Christine Exley, and Paul Wong
-
-#### Fairness and Time Inconsistency
-with James Andreoni, Deniz Aydin, Blake Barton, and B. Douglas Bernheim
 
 #### Incentives for Long-run Volunteer Behavior
 with Christine Exley
