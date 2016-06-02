@@ -15,7 +15,7 @@ Here is the resulting graph:
 
 Here's how to interpret the graphs: Each data point is one state. The x-axis is the state's corrections department spending per prisoner, while the y-axis is the state's education departments spending per student. If you hover over the state's data point, you can see the exact numbers for per-prisoner and per-pupil spending, as well as the ratio. 
 
-The grey dashed lines indicate where the ratio of per-prisoner to per-student spending would be 1:1, 2:1, 3:1, and 4:1. Note that every state spends more per prisoner than they spend per K-12 student.  The highest ratio actually belongs to California, at 5.14:1. 
+The grey dashed lines indicate where the ratio of per-prisoner to per-student spending would be 1:1, 2:1, 3:1, and 4:1. Note that every state spends more per prisoner than they spend per K-12 student.  The highest ratio actually belongs to California, at 5.14:1. The average ratio across the 40 states with complete data is 2.9:1.
 
 The code and data for this graph can be found [here](https://github.com/jnaecker/prison-vs-education).
 
