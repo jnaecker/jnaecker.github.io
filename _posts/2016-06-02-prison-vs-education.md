@@ -1,5 +1,5 @@
 ---
-title: "States spend much more per prisoner than per K-12 student"
+title: "States spend on average nearly 3 times as much per prisoner as they do per K-12 student"
 layout: post
 ---
 
