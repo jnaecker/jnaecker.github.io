@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img style="padding-right: 10px; float: left" src="public/img/jeff.jpg" height="280" />
+<img style="padding-right: 10px; float: left" src="assets/img/jeff.jpg" height="280" />
 
 Assistant Professor at the [Department of Economics](http://www.wesleyan.edu/econ/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"} at [Wesleyan University](http://www.wesleyan.edu/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}.  
 
