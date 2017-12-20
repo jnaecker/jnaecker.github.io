@@ -28,6 +28,9 @@ header_pages:
   - teaching/index.md
   - blog/index.html
 
+# Permalinks
+permalink: /blog/:title
+
 # Build settings
 markdown: kramdown
 theme: minima

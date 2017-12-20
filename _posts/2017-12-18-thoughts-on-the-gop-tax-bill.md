@@ -3,7 +3,7 @@ title: "Thoughts on the GOP Tax Bill"
 layout: post
 ---
 
-*A couple weeks ago, my father-in-law asked for my opinion on the GOP tax bill that had just been rushed through the Senate early in the morning of Saturday, December 2nd.  As the reconciled version of the bill seems likely to be passed in both houses in the coming days, I thought I'd share the response I sent to my father-in-law.*
+*A couple weeks ago, my father-in-law asked for my opinion on the GOP tax bill that had just been rushed through the Senate early in the morning of Saturday, December 2nd.  As the reconciled version of the bill seems likely to be passed in both houses today, I thought I'd share the response I sent to my father-in-law.*
 
 *I should make clear that I am not a macroeconomist, nor am I a public finance expert. Corrections and suggestions are extremely welcome [on Twitter](https://twitter.com/jnaecker)! I also wrote this over a week ago, before the reconciliation of the Senate and House versions was completed, so some details may have changed.*
 

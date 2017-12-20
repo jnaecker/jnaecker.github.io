@@ -15,7 +15,7 @@ In our experiment, students signed up for workshops at a campus center through a
 
 For a second treatment group, we then made a very simple change: The amount they choose to forgo would be made **public** to the people running the workshop.  This small change increased the average commitment choice to almost \\$9.00 on average.  Our hypothesis is that at least some of the students in our experiment chose to commit themselves in order to signal something about themselves: they were interested in the center's mission, or that they knew that failing to follow through with their actions was a bad thing.  
 
-![](../../public/img/histogram_combined.png)
+![](../../assets/img/histogram_combined.png)
 
 The takeaway message from this field experiment is simple:  We may be looking for present bias when there are other mechanisms at play. Returning to the examples I cited earlier: People may choose lockbox accounts to show others that they value saving.  They may choose restrictive deadlines or goals to signal to their boss or teacher than their are dedicated and conscientious workers.  When running experiments such as these, we need to be cautious about inferring that these actions are driven necessarily by time preference issues.  If we are not careful, our estimates about the prevalence of present bias or the parameters of time preferences may be biased.
 
