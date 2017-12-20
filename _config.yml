@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Jeff Naecker
 tagline: In data we trust.
-email: jnaecker@gmail.com
+email: jnaecker@wesleyan.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Behavioral economist at Wesleyan University.
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -23,11 +23,23 @@ url: "http://jeffnaecker.com" # the base hostname & protocol for your site, e.g.
 twitter_username: jnaecker
 github_username:  jnaecker
 
+header_pages: 
+  - research/index.md
+  - teaching/index.md
+  - blog/index.html
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+# pagination
+paginate: 3
+paginate_path: "/blog/page:num/"
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

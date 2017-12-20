@@ -5,7 +5,7 @@ title: Home
 
 <img style="padding-right: 10px; float: left" src="assets/img/jeff.jpg" height="280" />
 
-I am and Assistant Professor at the [Department of Economics](http://www.wesleyan.edu/econ/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"} at [Wesleyan University](http://www.wesleyan.edu/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}.  
+I am an Assistant Professor in the [Department of Economics](http://www.wesleyan.edu/econ/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"} at [Wesleyan University](http://www.wesleyan.edu/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}.  
 
 I use lab and field experiments to test theories of pro-social behavior and risk preferences.
 
