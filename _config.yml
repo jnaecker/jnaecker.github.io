@@ -9,6 +9,7 @@ permalink:        /blog/:title
 title:            Jeff Naecker
 tagline:          In data we trust.
 url:              http://jeffnaecker.com
+plugins:          [jekyll-paginate]
 paginate:         3
 paginate_path: 	  "blog/page:num"
 baseurl:          /
