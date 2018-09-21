@@ -10,3 +10,5 @@ I am an Assistant Professor in the [Department of Economics](http://www.wesleyan
 I use lab and field experiments to test theories of pro-social behavior and risk preferences.
 
 You can contact me [by email](mailto:jnaecker@wesleyan.edu){:onClick="ga('send', 'event', 'Email', 'Click', this.href);"} or [on Twitter](https://twitter.com/jnaecker){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}.
+
+I run the [Digital Experiments Lab](https://naecker-lab.github.io/) at Wesleyan. See our [lab Github page](https://github.com/naecker-lab) for research projects and traning materials.

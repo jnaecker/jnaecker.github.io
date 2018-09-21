@@ -9,7 +9,7 @@ title: Research
 
 with Alex Peysakhovich 
 
-**[forthcoming at the Journal of Economic Behavior and Organization]**
+**[Journal of Economic Behavior and Organization, 2017]**
 
 How can behavioral scientists incorporate tools from machine learning (ML)? We propose that ML models can be used as upper bounds for the “explainable” variance in a given data set and thus serve as upper bounds for the potential power of a theory. We demonstrate this method in the domain of uncertainty. We ask 600 individuals to make 6000 choices with randomized parameters and compare standard economic models to ML models. In the domain of risk, a version of expected utility that allows for non-linear probability weighting (as in cumulative prospect theory) and individual-level parameters performs as well out-of-sample as ML techniques. By contrast, in the domain of ambiguity, two of the most widely studied models (a linear version of maximin preferences and second order expected utility) fail to compete with the ML methods. We open the “black boxes” of the ML methods and show that under risk our ML methods essentially “rediscover” expected utility with probability weighting. However, in the case of ambiguity we show that the form of ambiguity aversion implied by our ML models suggests that there is gain from theoretical work on a portable model of ambiguity aversion. Our results highlight ways in which behavioral scientists can incorporate ML techniques in their daily practice to gain genuinely new insights.
 
@@ -17,7 +17,7 @@ How can behavioral scientists incorporate tools from machine learning (ML)? We p
 
 with Christine Exley
 
-**\[forthcoming at Management Science\]**
+**\[Management Science, 2017\]**
 
 Previous research often interprets the choice to restrict one’s future opportunity set as evidence for sophisticated time-inconsistency. We propose an additional mechanism that may contribute to the demand for commitment technology: the desire to signal to others. We present a field experiment where participants can choose to give up money if they do not follow through with an action. When commitment choices are made public rather than kept private, we find significantly higher uptake rates.
 
