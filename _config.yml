@@ -30,7 +30,7 @@ header_pages:
   - blog/index.html
 
 # Permalinks
-permalink: /blog/:title
+permalink: /blog/:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
