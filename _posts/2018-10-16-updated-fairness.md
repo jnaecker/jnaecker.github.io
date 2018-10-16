@@ -15,7 +15,7 @@ Let's say you have $10 to split between two poor households, called A and B. The
 
 What allocation do you tell me? Pause and think about it for a second! 
 
-Most people say that they would choose the allocation  ($0, $10) (all $10 to household B).  Note than this means both household will get $5 *in expectation*.  Put another way, your giving all $10 to B if heads is flipped perfectly offsets the chance of all $10 going to A if tails is flipped.
+Most people say that they would choose the allocation  ($0, $10) (all $10 to household B).  Note than this means both households will get $5 *in expectation*.  Put another way, your giving all $10 to B if heads is flipped perfectly offsets the chance of all $10 going to A if tails is flipped.
 
 Next, suppose I flip the coin and it comes up heads. Surprise! You can change allocation before implementing if you'd like. What allocation do you tell me now?  Again, take a second to think about it.
 
@@ -47,7 +47,7 @@ So what behavior do we observe? Across decision tasks, we see that people tend t
 
 These preferences strict and do not diminish with experience or exposure. (See the paper for how exactly we know this.) 
 
-Within decision tasks, we see that choice reversals common, and they almost always take the form of switching from ex ante equalizing to ex post equalizing.  To see this, check out Figure 4 in the paper.  In this figure, the panels represent the intial category of the allocation (in the ex ante frame), while the bars within each panel represent the final category (in the ex post frame).
+Within decision tasks, we see that choice reversals are common, and they almost always take the form of switching from ex ante equalizing to ex post equalizing.  To see this, check out Figure 4 in the paper.  In this figure, the panels represent the intial category of the allocation (in the ex ante frame), while the bars within each panel represent the final category (in the ex post frame).
 
 ![](/assets/img/fairness-fig4.png)
 
@@ -60,3 +60,5 @@ Our second piece of evidence on this question comes from one final treatment. In
 ![](/assets/img/fairness-fig6.png)
 
 So, what do we think is going on here? Our best guess is that most subjects have non-consequentialist preferences.  That is, they may have a procedural definition of fairness which *requires* choice reversals in this setting.  These reversals are not time-inconsistent, since people have preferences over the whole allocation process, not only the outcomes.
+
+If you have any comments, please [send me an email](mailto:jnaecker@wesleyan.edu), or [join the discussion on Twitter](https://twitter.com/jnaecker/status/1052313717927497728){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}
