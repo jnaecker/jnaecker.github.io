@@ -33,8 +33,7 @@ with James Andreoni, Deniz Aydin, Blake Barton, and B. Douglas Bernheim
 
 [local version](/assets/papers/fairness.pdf){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}
 
-
-**[revision submitted at  the Journal of Political Economy]**
+**[revision submitted at the Journal of Political Economy]**
 
 In settings with uncertainty, tension exists between ex ante and ex post notions of fairness (e.g., equal opportunity versus equal outcomes). In a laboratory experiment, the most common behavioral pattern is for subjects to select the ex ante fair alternative ex ante, and switch to the ex post fair alternative ex post. One potential explanation embraces consequentialism and construes the reversals as manifestations of time inconsistency. Another abandons consequentialism, thereby avoiding the implication that revisions imply inconsistency. We test between these explanations by examining the demand for commitment, and contingent planning. The hypothesis of time-consistent non-consequentialism receives strong support.
 
@@ -51,14 +50,17 @@ We develop a method for determining likely responses to a change in some economi
 
 ## Work in Progress
 
+#### The Model You Know: Generalizability and Predictive Power of Models of Choice Under Uncertainty
+with B. Douglas Bernheim, Christine Exley, and Charles Sprenger 
+[[slides](/assets/papers/ncrp-risk-slides.pdf){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}]
+
 #### What Drives Conspicuous Consumption? 
 with James Andreoni, B. Douglas Bernheim, Christine Exley, and Paul Wong
+[[slides](/assets/papers/cc-slides.pdf){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}]
 
 #### Incentives for Long-run Volunteer Behavior
 with Christine Exley
 
-#### Non-Choice Methods in Food and Gamble Decisions
-with B. Douglas Bernheim, Christine Exley, Antonio Rangel, Charles Sprenger, and Neil Yu
 
 <br>
 Find me on [Google Scholar](http://scholar.google.com/citations?hl=en&user=v2-qGEAAAAAJ){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}, [RePeC](http://ideas.repec.org/f/pna439.html){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}, or [SSRN](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1659584){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}.
