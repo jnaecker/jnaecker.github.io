@@ -33,7 +33,7 @@ with James Andreoni, Deniz Aydin, Blake Barton, and B. Douglas Bernheim
 
 [local version](/assets/papers/fairness.pdf){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}
 
-**[revision submitted at the Journal of Political Economy]**
+**[accepted at the Journal of Political Economy]**
 
 In settings with uncertainty, tension exists between ex ante and ex post notions of fairness (e.g., equal opportunity versus equal outcomes). In a laboratory experiment, the most common behavioral pattern is for subjects to select the ex ante fair alternative ex ante, and switch to the ex post fair alternative ex post. One potential explanation embraces consequentialism and construes the reversals as manifestations of time inconsistency. Another abandons consequentialism, thereby avoiding the implication that revisions imply inconsistency. We test between these explanations by examining the demand for commitment, and contingent planning. The hypothesis of time-consistent non-consequentialism receives strong support.
 
