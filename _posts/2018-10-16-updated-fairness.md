@@ -41,11 +41,11 @@ This hold regardless of the computer's allocations of tickets.  On the other han
 
 ## Results
 
-So what behavior do we observe? Across decision tasks, we see that people tend to choose the ex ante fair allocation most often in the ex ante frame, and the ex post fair allocation most often in the ex ante frame.  Figure 1 from the paper makes this very clear:
+So what behavior do we observe? Across decision tasks, we see that people tend to choose the ex ante fair allocation most often in the ex ante frame, and the ex post fair allocation most often in the ex post frame.  Figure 1 from the paper makes this very clear:
 
 ![](/assets/img/fairness-fig1.png)
 
-These preferences strict and do not diminish with experience or exposure. (See the paper for how exactly we know this.) 
+These preferences are strict and do not diminish with experience or exposure. (See the paper for how exactly we know this.) 
 
 Within decision tasks, we see that choice reversals are common, and they almost always take the form of switching from ex ante equalizing to ex post equalizing.  To see this, check out Figure 4 in the paper.  In this figure, the panels represent the intial category of the allocation (in the ex ante frame), while the bars within each panel represent the final category (in the ex post frame).
 
