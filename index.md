@@ -5,15 +5,13 @@ title: Home
 
 <img style="padding-right: 10px; float: left" src="assets/img/Jeff.jpg" height="280" />
 
-I am an Assistant Professor in the [Department of Economics](http://www.wesleyan.edu/econ/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"} at [Wesleyan University](http://www.wesleyan.edu/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}.  
+I'm currently an economist at Google.
 
-I use lab and field experiments to test theories of pro-social behavior and risk preferences.
+Previoulsy, I was an assistant professor in the [Department of Economics](http://www.wesleyan.edu/econ/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"} at [Wesleyan University](http://www.wesleyan.edu/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}, where  I ran the [Digital Experiments Lab](https://naecker-lab.github.io/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}. See our [lab Github page](https://github.com/naecker-lab){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"} for research projects and traning materials.
 
-You can contact me [by email](mailto:jnaecker@wesleyan.edu){:onClick="ga('send', 'event', 'Email', 'Click', this.href);"} or [on Twitter](https://twitter.com/jnaecker){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"}.
+In my academic work, I use lab and field experiments to test theories of pro-social behavior and risk preferences.
 
-I run the [Digital Experiments Lab](https://naecker-lab.github.io/){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"} at Wesleyan. See our [lab Github page](https://github.com/naecker-lab){:onClick="ga('send', 'event', 'Link', 'Click', this.href);"} for research projects and traning materials.
-
-<br><br><br>
+<br><br><br><br><br>
 
 ***
 

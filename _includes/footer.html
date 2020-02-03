@@ -12,13 +12,15 @@
               {{ site.title | escape }}
             {% endif %}
             </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
+            <p>{{ site.description | escape }}</p>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
+        
+      </div>
+
+      <div class="footer-col footer-col-3">
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -32,10 +34,6 @@
           </li>
           {% endif %}
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
       </div>
     </div>
 
