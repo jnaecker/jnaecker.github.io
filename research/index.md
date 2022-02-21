@@ -9,7 +9,7 @@ title: Research
 
 with James Andreoni, Deniz Aydin, Blake Barton, and B. Douglas Bernheim 
 
-**[Journal of Political Economy, 2020]** ([local version](/assets/papers/fairness.pdf){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}, [SSRN version](http://bit.ly/fairness-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"})
+**[Journal of Political Economy, 2020]** ([local version](https://bit.ly/fairness-paper-local){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}, [SSRN version](http://bit.ly/fairness-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"})
 
 In settings with uncertainty, tension exists between ex ante and ex post notions of fairness (e.g., equal opportunity versus equal outcomes). In a laboratory experiment, the most common behavioral pattern is for subjects to select the ex ante fair alternative ex ante, and switch to the ex post fair alternative ex post. One potential explanation embraces consequentialism and construes the reversals as manifestations of time inconsistency. Another abandons consequentialism, thereby avoiding the implication that revisions imply inconsistency. We test between these explanations by examining the demand for commitment, and contingent planning. The hypothesis of time-consistent non-consequentialism receives strong support.
 
@@ -18,7 +18,7 @@ In settings with uncertainty, tension exists between ex ante and ex post notions
 
 with Alex Peysakhovich 
 
-**[Journal of Economic Behavior and Organization, 2017]** ([SSRN version](http://bit.ly/ML-risk-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"})
+**[Journal of Economic Behavior and Organization, 2017]** ([local version](https://bit.ly/machines-paper-local){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}, [SSRN version](http://bit.ly/ML-risk-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"})
 
 How can behavioral scientists incorporate tools from machine learning (ML)? We propose that ML models can be used as upper bounds for the “explainable” variance in a given data set and thus serve as upper bounds for the potential power of a theory. We demonstrate this method in the domain of uncertainty. We ask 600 individuals to make 6000 choices with randomized parameters and compare standard economic models to ML models. In the domain of risk, a version of expected utility that allows for non-linear probability weighting (as in cumulative prospect theory) and individual-level parameters performs as well out-of-sample as ML techniques. By contrast, in the domain of ambiguity, two of the most widely studied models (a linear version of maximin preferences and second order expected utility) fail to compete with the ML methods. We open the “black boxes” of the ML methods and show that under risk our ML methods essentially “rediscover” expected utility with probability weighting. However, in the case of ambiguity we show that the form of ambiguity aversion implied by our ML models suggests that there is gain from theoretical work on a portable model of ambiguity aversion. Our results highlight ways in which behavioral scientists can incorporate ML techniques in their daily practice to gain genuinely new insights.
 
@@ -27,7 +27,7 @@ How can behavioral scientists incorporate tools from machine learning (ML)? We p
 
 with Christine Exley
 
-**\[Management Science, 2017\]** ([SSRN version](http://bit.ly/ML-risk-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"})
+**\[Management Science, 2017\]** ([local version](https://bit.ly/commitment-paper-local){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}, [SSRN version](http://bit.ly/commitment-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"})
 
 
 
