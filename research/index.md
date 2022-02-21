@@ -36,6 +36,11 @@ Previous research often interprets the choice to restrict one’s future opportu
 ## Working Papers
 
 
+#### [Causal Inference from Hypothetical Evaluations](https://bit.ly/hyp-inference-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}
+
+with B. Douglas Bernheim, Daniel Bjorkegren, and Michael Pollmann
+	
+This paper explores methods for inferring the causal effects of treatments on choices by combining data on real choices with hypothetical evaluations. We propose a class of estimators, identify conditions under which they yield consistent estimates, and derive their asymptotic distributions. The approach is applicable in settings where standard methods cannot be used (e.g., due to the absence of helpful instruments, or because the treatment has not been implemented). It can recover heterogeneous treatment effects more comprehensively, and can improve precision. We provide proof of concept using data generated in a laboratory experiment and through a field application.
 
 #### [The Lives of Others: Predicting Donations with Non-Choice Responses](http://bit.ly/donations-paper-ssrn){:onClick="ga('send', 'event', 'Research', 'Download', this.href);"}
 
